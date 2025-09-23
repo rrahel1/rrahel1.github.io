@@ -142,4 +142,4 @@ languages:
 
 # About Me
 
-I am a master’s graduate from ETH Zurich in the studies of Robotics Systems and Control, working since August 2022 as a PhD candidate at the Institute of Dynamical Systems and Control. During my studies, the involved projects, and my internship I developed a solution-oriented and scientifically driven mindset and am always up for new and interesting challenges.
+I am a master’s graduate from ETH Zurich in the studies of Robotics Systems and Control, working since August 2022 as a PhD candidate at the Institute of Dynamical Systems and Control. During my studies, the involved projects, and my internship I developed a solution-oriented and scientifically driven mindset and am always up for new and interesting challenges. My interests lie on the intersection between learning from demonstrations, dynamical systems, and sequence models, trying to not only investigate their behaviour, but also combine them in a useful manner.
