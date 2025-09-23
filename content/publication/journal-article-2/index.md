@@ -9,7 +9,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024"
+#date: "2024"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Transactions on Automatic Control 69"
 publication_short: "IEEE TAC"
 
-abstract: The problem of coverage control, i.e., of coordinating multiple agents to optimally cover an area, arises in various applications. However, coverage applications face two major challenges: 1) dealing with nonlinear dynamics while respecting system and safety critical constraints and 2) performing the task in an initially unknown environment. We solve the coverage problem by using a hierarchical framework, in which references are calculated at a central server and passed to the agents' local model predictive control (MPC) tracking schemes. Furthermore, to ensure that the environment is actively explored by the agents a probabilistic exploration–exploitation tradeoff is deployed. In addition, we derive a control framework that avoids the hierarchical structure by integrating the reference optimization in the MPC formulation. Active learning is then performed drawing inspiration from Upper Confidence Bound (UCB) approaches. For all developed control architectures, we guarantee closed-loop constraint satisfaction and convergence to an optimal configuration. Furthermore, all methods are tested and compared on hardware using a miniature car platform.
+abstract: The problem of coverage control, i.e., of coordinating multiple agents to optimally cover an area, arises in various applications. However, coverage applications face two major challenges. 1) dealing with nonlinear dynamics while respecting system and safety critical constraints and 2) performing the task in an initially unknown environment. We solve the coverage problem by using a hierarchical framework, in which references are calculated at a central server and passed to the agents' local model predictive control (MPC) tracking schemes. Furthermore, to ensure that the environment is actively explored by the agents a probabilistic exploration–exploitation tradeoff is deployed. In addition, we derive a control framework that avoids the hierarchical structure by integrating the reference optimization in the MPC formulation. Active learning is then performed drawing inspiration from Upper Confidence Bound (UCB) approaches. For all developed control architectures, we guarantee closed-loop constraint satisfaction and convergence to an optimal configuration. Furthermore, all methods are tested and compared on hardware using a miniature car platform.
 
 # Summary. An optional shortened abstract.
 summary: We solve the coverage problem by using two different model predictive frameworks in combination with active learning of the unknown environment. 
