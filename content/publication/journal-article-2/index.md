@@ -1,13 +1,15 @@
 ---
-title: "Inverse Optimal Control with Constraint Relaxation"
+title: "Active learning-based model predictive coverage control"
 authors:
 - R Rickenbach,
-- A Lahr,
-- MN Zeilinger
+- J Köhler,
+- A Scampicchio,
+- MN Zeilinger, 
+- A Carron
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025"
+date: "2024"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +21,13 @@ date: "2025"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Control Systems Letters"
-publication_short: "IEEE LCSS"
+publication: "IEEE Transactions on Automatic Control 69"
+publication_short: "IEEE TAC"
 
-abstract: Inverse optimal control (IOC) is a promising paradigm for learning and mimicking optimal control strategies from capable demonstrators, or gaining a deeper understanding of their intentions, by estimating an unknown objective function from one or more corresponding optimal control sequences. When computing estimates from demonstrations in environments with safety-preserving inequality constraints, acknowledging their presence in the chosen IOC method is crucial given their strong influence on the final control strategy. However, solution strategies capable of considering inequality constraints, such as the inverse Karush-Kuhn-Tucker approach, rely on their correct activation and fulfillment; a restrictive assumption when dealing with noisy demonstrations. To overcome this problem, we leverage the concept of exact penalty functions for IOC and show preservation of estimation accuracy. Considering noisy demonstrations, we then illustrate how the usage of penalty functions reduces the number of unknown variables and how their approximations enhance the estimation method’s capacity to account for wrong constraint activations within a polytopic-constrained environment. The proposed method is evaluated for three systems in simulation, outperforming traditional relaxation approaches for noisy demonstrations.
+abstract: The problem of coverage control, i.e., of coordinating multiple agents to optimally cover an area, arises in various applications. However, coverage applications face two major challenges: 1) dealing with nonlinear dynamics while respecting system and safety critical constraints and 2) performing the task in an initially unknown environment. We solve the coverage problem by using a hierarchical framework, in which references are calculated at a central server and passed to the agents' local model predictive control (MPC) tracking schemes. Furthermore, to ensure that the environment is actively explored by the agents a probabilistic exploration–exploitation tradeoff is deployed. In addition, we derive a control framework that avoids the hierarchical structure by integrating the reference optimization in the MPC formulation. Active learning is then performed drawing inspiration from Upper Confidence Bound (UCB) approaches. For all developed control architectures, we guarantee closed-loop constraint satisfaction and convergence to an optimal configuration. Furthermore, all methods are tested and compared on hardware using a miniature car platform.
 
 # Summary. An optional shortened abstract.
-summary: We leverage the concept of exact penalization for inverse optimal control, to improve estiamtion accuracy from noisy demonstrations, potentially violating inequality constraints. 
+summary: We solve the coverage problem by using two different model predictive frameworks in combination with active learning of the unknown environment. 
 
 # tags:
 # - Source Themes
