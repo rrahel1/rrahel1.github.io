@@ -19,3 +19,5 @@ tags:
 
 featured: false
 ---
+
+Presented ["Task-Level Insights from Eigenvalues across Sequence Models"](/publication/preprint_1/).
