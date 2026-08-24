@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Final-Year PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,11 +43,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Inverse Reinforcement Learning
   - Learning from Demonstrations
-  - Optimization
+  - Foundation Models & LLMs
   - Language to Control
-  - Artificial Intelligence
-  - Foundation Models
+  - Control Theory
 
 education:
   - area: PhD Intelligent Control Systems
@@ -78,25 +78,60 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: code-bracket
+      - name: MATLAB
+        description: ''
       - name: C++
         description: ''
-        percent: 80
         icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
         icon: circle-stack
+  - name: ML & Scientific Computing
+    items:
+      - name: PyTorch
+        description: ''
+      - name: JAX
+        description: ''
+      - name: Hugging Face
+        description: ''
+      - name: NumPy
+        description: ''
+      - name: SciPy
+        description: ''
+      - name: Weights & Biases
+        description: ''
+  - name: Robotics & Control
+    items:
+      - name: ROS
+        description: ''
+      - name: CasADi
+        description: ''
+      - name: PandaGym
+        description: ''
+  - name: Tools
+    items:
+      - name: Linux
+        description: ''
+      - name: Git
+        description: ''
+      - name: Docker
+        description: ''
+      - name: LaTeX
+        description: ''
   - name: Hobbies
     items:
       - name: Volleyball
         description: ''
       - name: Dogs
+        description: ''
+      - name: Hiking
+        description: ''
+      - name: Cooking
         description: ''
 
 
@@ -142,4 +177,4 @@ languages:
 
 # About Me
 
-I am a master’s graduate from ETH Zurich in the studies of Robotics Systems and Control, working since August 2022 as a PhD candidate at the Institute of Dynamical Systems and Control. During my studies, the involved projects, and my internship I developed a solution-oriented and scientifically driven mindset and am always up for new and interesting challenges. My interests lie on the intersection between learning from demonstrations, dynamical systems, and sequence models, trying to not only investigate their behaviour, but also combine them in a useful manner.
+Final-year PhD candidate conducting research in **inverse reinforcement learning** and **learning from demonstrations**, developing methods that account for noisy, suboptimal, and safety-critical demonstrations and integrating them with **foundation models**, including **large language models**, for principled language-based control of robots and fine-tuning of large language models. My work also leverages **control theory** to develop and understand **learning-based methods**, with an emphasis on interpretability. I am seeking a research internship to contribute my expertise in **machine learning, reinforcement learning, and foundation models** to challenging real-world problems.
