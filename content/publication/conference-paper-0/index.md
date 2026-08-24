@@ -5,10 +5,10 @@ title: 'ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - R Rickenbach,
-  - A Lahoud,
-  - E Schaffernicht,
-  - MN Zeilinger,
+  - R Rickenbach
+  - A Lahoud
+  - E Schaffernicht
+  - MN Zeilinger
   - J Stork
 
 # Author notes (optional)
@@ -37,8 +37,8 @@ abstract:  The computational burden of model predictive control (MPC) limits its
 summary: This paper proposes ZipMPC, a method that imitates a long-horizon MPC behaviour by learning a compressed and context-dependent cost function for a short-horizon MPC.
 
 tags:
-  - Imitation learning,
-  - Context dependence, 
+  - Imitation learning
+  - Context dependence
   - Neural Networks
 
 # Display this page in the Featured widget?

@@ -1,8 +1,8 @@
 ---
 title: "Inverse Optimal Control with Constraint Relaxation"
 authors:
-- R Rickenbach,
-- A Lahr,
+- R Rickenbach
+- A Lahr
 - MN Zeilinger
 # author_notes:
 # - "Equal contribution"
@@ -25,7 +25,7 @@ publication_short: "IEEE LCSS"
 abstract: Inverse optimal control (IOC) is a promising paradigm for learning and mimicking optimal control strategies from capable demonstrators, or gaining a deeper understanding of their intentions, by estimating an unknown objective function from one or more corresponding optimal control sequences. When computing estimates from demonstrations in environments with safety-preserving inequality constraints, acknowledging their presence in the chosen IOC method is crucial given their strong influence on the final control strategy. However, solution strategies capable of considering inequality constraints, such as the inverse Karush-Kuhn-Tucker approach, rely on their correct activation and fulfillment; a restrictive assumption when dealing with noisy demonstrations. To overcome this problem, we leverage the concept of exact penalty functions for IOC and show preservation of estimation accuracy. Considering noisy demonstrations, we then illustrate how the usage of penalty functions reduces the number of unknown variables and how their approximations enhance the estimation method’s capacity to account for wrong constraint activations within a polytopic-constrained environment. The proposed method is evaluated for three systems in simulation, outperforming traditional relaxation approaches for noisy demonstrations.
 
 # Summary. An optional shortened abstract.
-summary: We leverage the concept of exact penalization for inverse optimal control, to improve estiamtion accuracy from noisy demonstrations, potentially violating inequality constraints. 
+summary: We leverage the concept of exact penalization for inverse optimal control, to improve estimation accuracy from noisy demonstrations, potentially violating inequality constraints. 
 
 # tags:
 # - Source Themes

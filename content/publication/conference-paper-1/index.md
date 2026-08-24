@@ -5,8 +5,8 @@ title: 'Inverse optimal control as an errors-in-variables problem'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - R Rickenbach,
-  - A Scampicchio,
+  - R Rickenbach
+  - A Scampicchio
   - MN Zeilinger
 
 # Author notes (optional)
@@ -35,8 +35,8 @@ abstract:  Inverse optimal control (IOC) is about estimating an unknown objectiv
 summary: This paper presents an IOC framework for objective estimation from multiple sub-optimal demonstrations in constrained environments. It builds upon the Karush-Kuhn-Tucker optimality conditions, and addresses the Errors-In-Variables problem that emerges from the use of sub-optimal data.
 
 tags:
-  - Learning from demonstrations,
-  - Inverse optimal control, 
+  - Learning from demonstrations
+  - Inverse optimal control
   - MCMC sampling
 
 # Display this page in the Featured widget?

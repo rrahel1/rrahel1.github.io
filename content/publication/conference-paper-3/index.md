@@ -5,14 +5,14 @@ title: 'Chronos and CRS: Design of a miniature car-like robot and a software fra
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - A Carron, 
-  - S Bodmer, 
-  - L Vogel, 
-  - R Zurbrügg,
-  - D Helm, 
-  - R Rickenbach,
-  - S Muntwiler, 
-  - J Sieber, 
+  - A Carron
+  - S Bodmer
+  - L Vogel
+  - R Zurbrügg
+  - D Helm
+  - R Rickenbach
+  - S Muntwiler
+  - J Sieber
   - MN Zeilinger
 
 # Author notes (optional)
@@ -41,8 +41,8 @@ abstract:  From both an educational and research point of view, experiments on h
 summary: We present Chronos, a new car-like 1/28th scale robot with customized open-source electronics, and CRS, an open-source software framework for control and robotics.
 
 tags:
-  - Educational robotics,
-  - From sim to real , 
+  - Educational robotics
+  - From sim to real
   - Autonomous racing
 
 # Display this page in the Featured widget?

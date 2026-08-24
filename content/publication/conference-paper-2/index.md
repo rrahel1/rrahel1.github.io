@@ -5,8 +5,8 @@ title: 'Time Dependent Inverse Optimal Control using Trigonometric Basis Functio
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - R Rickenbach,
-  - E Arcari,
+  - R Rickenbach
+  - E Arcari
   - MN Zeilinger
 
 # Author notes (optional)
@@ -35,8 +35,8 @@ abstract:  The choice of objective is critical for the performance of an optimal
 summary: In this paper we consider the problem of identifying a time dependent cost function from given trajectories.
 
 tags:
-  - Learning from demonstrations,
-  - Inverse optimal control, 
+  - Learning from demonstrations
+  - Inverse optimal control
   - Trigonometric basis functions
 
 # Display this page in the Featured widget?

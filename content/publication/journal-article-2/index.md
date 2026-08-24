@@ -1,10 +1,10 @@
 ---
 title: "Active learning-based model predictive coverage control"
 authors:
-- R Rickenbach,
-- J Köhler,
-- A Scampicchio,
-- MN Zeilinger, 
+- R Rickenbach
+- J Köhler
+- A Scampicchio
+- MN Zeilinger
 - A Carron
 # author_notes:
 # - "Equal contribution"

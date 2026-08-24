@@ -1,10 +1,10 @@
 ---
 title: "DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning"
 authors:
-- R Rickenbach,
-- B Lee,
-- R Zurbrügg, 
-- CA Alonso, 
+- R Rickenbach
+- B Lee
+- R Zurbrügg
+- CA Alonso
 - MN Zeilinger
 #date: "2025"
 #doi: ""
@@ -27,9 +27,9 @@ abstract: The integration of large language models (LLMs) with control systems h
 summary: We propose DEMONSTRATE, a novel methodology that avoids the use of LLMs for complex optimization problem generations, and instead only relies on the embedding representations of task descriptions.
 
 tags:
-- Large language models,
-- Learning from demonstrations,
-- Safety in language to control 
+- Large language models
+- Learning from demonstrations
+- Safety in language to control
 
 # featured: true
 
