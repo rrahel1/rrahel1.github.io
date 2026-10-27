@@ -49,7 +49,9 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  # Year-only: every dated item on this site (publications, events, teaching, projects)
+  # uses a placeholder day since only the year is actually known.
+  date_format: '2006'
   time_format: '3:04 PM'
 
 # Site features

@@ -1,6 +1,7 @@
 ---
 title: DEMONSTRATE
 date: '2025-01-01'
+summary: A framework that replaces hand-tuned in-context prompt examples with task demonstrations, mapping language descriptions to control objectives via inverse optimal control to enable zero-shot generalization with built-in hallucination detection.
 tags:
   - Language to Control
   - Inverse Optimal Control

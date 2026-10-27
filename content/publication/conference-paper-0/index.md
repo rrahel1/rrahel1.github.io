@@ -12,9 +12,9 @@ authors:
   - J Stork
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2025-01-01'
 #doi: ''

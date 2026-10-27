@@ -6,6 +6,9 @@ authors:
 - A Didier
 - J Sieber
 - MN Zeilinger
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
 date: '2025-01-01'
 #doi: ""
 

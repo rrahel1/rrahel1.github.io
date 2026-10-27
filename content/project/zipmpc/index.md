@@ -1,6 +1,7 @@
 ---
 title: ZipMPC
 date: '2025-01-01'
+summary: A method that imitates long-horizon MPC behaviour by learning a compressed, context-dependent cost function for a short-horizon MPC, achieving long-horizon performance at short-horizon computational cost.
 tags:
   - Model Predictive Control
   - Imitation Learning
